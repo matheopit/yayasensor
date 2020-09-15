@@ -7,7 +7,20 @@ yayserver functionality
 
 ## Installation
 
-Use cmake to compile project 
+Use cmake to compile project.
+
+This project use:
+
+lib jansson to parse json
+https://digip.org/jansson/
+
+libuv 
+https://libuv.org/
+
+sqlite (include amalgation )
+https://www.sqlite.org/index.html
+
+Unfortunatly I have not finish , you need to compile and link yourself this library.
 coming soon I hope.
 
 
