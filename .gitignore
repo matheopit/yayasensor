@@ -1,0 +1,5 @@
+thirdparty
+db/dbweather.db
+CMakeLists.txt.user
+*pro.user*
+test
